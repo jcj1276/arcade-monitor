@@ -1,0 +1,10 @@
+header {
+  background-color: #353d4a;
+  border-bottom: 1px solid #919eab;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 2rem;
+}
+.time {
+  align-self: center;
+}

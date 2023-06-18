@@ -1,0 +1,19 @@
+.guage-line {
+  border: 2px solid #ee2400;
+  transform: rotate(90deg);
+  transform-origin: bottom right;
+  position: relative;
+  width: 100px;
+  top: 95px;
+  left: 16px;
+}
+
+.guage-prct {
+  position: absolute;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 32px;
+  top: 60px;
+  left: 95px;
+  z-index: 9999;
+}

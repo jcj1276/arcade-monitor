@@ -1,0 +1,12 @@
+.card {
+  background-color: #353d4a;
+  border: 1px solid #919eab;
+  padding: 1.25rem 1.25rem 0 1.25rem;
+  border-radius: 0.25rem;
+}
+.quarter {
+  width: 25%;
+}
+.half {
+  width: 50%;
+}

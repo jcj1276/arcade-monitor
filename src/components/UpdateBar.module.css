@@ -1,0 +1,14 @@
+.update-bar {
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem;
+}
+
+.active-machine {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.soft-refresh {
+    padding-right: 1rem;
+}

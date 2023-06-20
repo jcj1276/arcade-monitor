@@ -1,0 +1,22 @@
+.card-header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+h4 {
+  color: #9ccaf6;
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+i {
+  color: #288ff2;
+  font-size: 1.2rem;
+}
+
+.card-body {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,3 +1,5 @@
 .active-machine {
-    margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem;
 }

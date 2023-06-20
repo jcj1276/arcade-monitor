@@ -4,9 +4,9 @@ import Icon from "../UI/Icon";
 
 import styles from "./Memory.module.css";
 
-const Memory = () => {
+const Memory = (props) => {
   return [
-    <Card>
+    <Card width={props.width}>
       <div className={styles["card-header"]}>
         <h4>Memory Statistics</h4>
         <Icon classes={["fa", "fa-database"]} />

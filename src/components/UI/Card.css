@@ -1,10 +1,12 @@
 .card {
   background-color: #353d4a;
   border: 1px solid #919eab;
-  padding: 1.25rem 1.25rem 0 1.25rem;
   border-radius: 0.25rem;
+  display: inline-flex;
+  padding: 1.25rem 1.25rem 0 1.25rem;
 }
 .quarter {
+  margin-right: 2.5rem;
   width: 25%;
 }
 .half {
